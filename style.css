@@ -1,0 +1,37 @@
+.product{
+    border: 1px solid lightcyan;
+    margin: -1px 19px 3px -1px;
+    padding: 10px;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.title2{
+    text-align: center;
+    color: black;
+    background-color: lightcyan;
+    padding: 2%;
+}
+*{
+    font-family: 'Arial Black', "Times New Roman";
+
+}
+
+.container{
+    text-align: center;
+    background-color : lightcyan;
+}
+.table th{
+    background-color : lightcyan;
+}
+.table, th, tr{
+    text-align: center;
+    background-color : lightcyan;
+}
+.h2{
+    text-align: center;
+    color: lightcyan;
+    background-color: lightcyan;
+    padding: 20%;
+
+}
